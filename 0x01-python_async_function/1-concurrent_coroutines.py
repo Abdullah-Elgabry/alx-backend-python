@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+'''execute multiple coroutines
+'''
 import asyncio
 from typing import List
 
